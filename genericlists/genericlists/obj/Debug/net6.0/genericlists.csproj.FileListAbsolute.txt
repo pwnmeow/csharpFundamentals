@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\bin\Debug\net6.0\genericlists.exe
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\bin\Debug\net6.0\genericlists.deps.json
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\bin\Debug\net6.0\genericlists.runtimeconfig.json
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\bin\Debug\net6.0\genericlists.dll
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\bin\Debug\net6.0\genericlists.pdb
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\genericlists.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\genericlists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\genericlists.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\genericlists.AssemblyInfo.cs
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\genericlists.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\genericlists.dll
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\refint\genericlists.dll
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\genericlists.pdb
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\genericlists.genruntimeconfig.cache
+C:\Users\asus\Desktop\csharpFundamentals\genericlists\genericlists\obj\Debug\net6.0\ref\genericlists.dll
