@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\bin\Debug\net6.0\randomclass.exe
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\bin\Debug\net6.0\randomclass.deps.json
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\bin\Debug\net6.0\randomclass.runtimeconfig.json
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\bin\Debug\net6.0\randomclass.dll
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\bin\Debug\net6.0\randomclass.pdb
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\randomclass.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\randomclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\randomclass.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\randomclass.AssemblyInfo.cs
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\randomclass.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\randomclass.dll
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\refint\randomclass.dll
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\randomclass.pdb
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\randomclass.genruntimeconfig.cache
+C:\Users\asus\Desktop\csharpFundamentals\randomclass\randomclass\obj\Debug\net6.0\ref\randomclass.dll
