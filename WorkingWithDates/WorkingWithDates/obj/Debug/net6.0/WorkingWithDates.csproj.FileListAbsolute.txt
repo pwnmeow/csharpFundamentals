@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\bin\Debug\net6.0\WorkingWithDates.exe
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\bin\Debug\net6.0\WorkingWithDates.deps.json
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\bin\Debug\net6.0\WorkingWithDates.runtimeconfig.json
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\bin\Debug\net6.0\WorkingWithDates.dll
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\bin\Debug\net6.0\WorkingWithDates.pdb
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\WorkingWithDates.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\WorkingWithDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\WorkingWithDates.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\WorkingWithDates.AssemblyInfo.cs
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\WorkingWithDates.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\WorkingWithDates.dll
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\refint\WorkingWithDates.dll
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\WorkingWithDates.pdb
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\WorkingWithDates.genruntimeconfig.cache
+C:\Users\asus\Desktop\csharpFundamentals\WorkingWithDates\WorkingWithDates\obj\Debug\net6.0\ref\WorkingWithDates.dll

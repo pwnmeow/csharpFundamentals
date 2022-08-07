@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\bin\Debug\net6.0\Stringfunctions.exe
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\bin\Debug\net6.0\Stringfunctions.deps.json
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\bin\Debug\net6.0\Stringfunctions.runtimeconfig.json
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\bin\Debug\net6.0\Stringfunctions.dll
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\bin\Debug\net6.0\Stringfunctions.pdb
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\Stringfunctions.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\Stringfunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\Stringfunctions.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\Stringfunctions.AssemblyInfo.cs
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\Stringfunctions.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\Stringfunctions.dll
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\refint\Stringfunctions.dll
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\Stringfunctions.pdb
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\Stringfunctions.genruntimeconfig.cache
+C:\Users\asus\Desktop\csharpFundamentals\Stringfunctions\Stringfunctions\obj\Debug\net6.0\ref\Stringfunctions.dll
