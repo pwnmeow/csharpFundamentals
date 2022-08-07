@@ -55,6 +55,18 @@
             directoryInfo.GetFiles();
             directoryInfo.GetDirectories();
 
+
+            // Path class
+
+            var filepath = @"C:\Users\asus\Desktop\csharpFundamentals\workingwithfiles\workingwithfiles.sln";
+
+            Console.WriteLine("Extention : " + Path.GetExtension(filepath));
+            Console.WriteLine("File Name : " + Path.GetFileName(filepath));
+            Console.WriteLine("Filename without ext : " + Path.GetFileNameWithoutExtension(filepath));
+            Console.WriteLine("Directory name : " + Path.GetDirectoryName(filepath));
+
+
+
         }
     }
 }
