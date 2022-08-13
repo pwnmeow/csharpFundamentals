@@ -1,0 +1,15 @@
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\bin\Debug\net6.0\abstractClass.exe
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\bin\Debug\net6.0\abstractClass.deps.json
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\bin\Debug\net6.0\abstractClass.runtimeconfig.json
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\bin\Debug\net6.0\abstractClass.dll
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\bin\Debug\net6.0\abstractClass.pdb
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\abstractClass.csproj.AssemblyReference.cache
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\abstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\abstractClass.AssemblyInfoInputs.cache
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\abstractClass.AssemblyInfo.cs
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\abstractClass.csproj.CoreCompileInputs.cache
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\abstractClass.dll
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\refint\abstractClass.dll
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\abstractClass.pdb
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\abstractClass.genruntimeconfig.cache
+C:\Users\sheeraz\Desktop\csharpfund\abstractClass\abstractClass\obj\Debug\net6.0\ref\abstractClass.dll

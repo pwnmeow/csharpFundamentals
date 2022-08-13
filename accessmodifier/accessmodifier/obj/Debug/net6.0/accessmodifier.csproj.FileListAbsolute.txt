@@ -1,0 +1,15 @@
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\accessmodifier.csproj.AssemblyReference.cache
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\accessmodifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\accessmodifier.AssemblyInfoInputs.cache
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\accessmodifier.AssemblyInfo.cs
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\accessmodifier.csproj.CoreCompileInputs.cache
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\bin\Debug\net6.0\accessmodifier.exe
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\bin\Debug\net6.0\accessmodifier.deps.json
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\bin\Debug\net6.0\accessmodifier.runtimeconfig.json
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\bin\Debug\net6.0\accessmodifier.dll
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\bin\Debug\net6.0\accessmodifier.pdb
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\accessmodifier.dll
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\refint\accessmodifier.dll
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\accessmodifier.pdb
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\accessmodifier.genruntimeconfig.cache
+C:\Users\sheeraz\Desktop\csharpfund\accessmodifier\accessmodifier\obj\Debug\net6.0\ref\accessmodifier.dll
